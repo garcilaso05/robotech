@@ -30,4 +30,4 @@ Para clonar y ejecutar este proyecto, sigue estos pasos:
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tu_usuario/robot-limpiador-playas.git
+   git clone https://github.com/garcilaso05/robotech.git
