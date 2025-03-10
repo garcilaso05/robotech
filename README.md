@@ -31,3 +31,14 @@ Para clonar y ejecutar este proyecto, sigue estos pasos:
 1. Clona el repositorio:
    ```sh
    git clone https://github.com/garcilaso05/robotech.git
+
+## Videos
+
+Video demo robot
+
+https://github.com/user-attachments/assets/20cefe03-7070-4fa8-b8f5-ffde0890b53f
+
+Video impresora 3D
+
+https://github.com/user-attachments/assets/48825a07-1b3b-47d3-a867-66be43f06451
+
